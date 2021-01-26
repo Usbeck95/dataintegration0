@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<notebook> 
+
+    <javascriptnotes>
+    <note>Hvis man skal iterere gennem en array,
+    kan man med fordel bruge forloops </note>
+    </javascriptnotes>
+
+    <dataintegrationnotes>
+    <note>Det vigtigt man slutter sine tags af med et 
+    end tag </note>
+    </dataintegrationnotes>
+
+</notebook>
